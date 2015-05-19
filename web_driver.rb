@@ -1,8 +1,8 @@
 # Description: Webdriver class for handling the Grid / Local execution
 # Created by LZD643 on 3/19/2015.
 # Bugs:
-#         1. Unable to pick executable from different location
-#         2. Need to add handle for executable browser location.
+#         1. Unable to pick executable from different location - FIXED
+#         2. Need to add handle for executable browser location. - FIXED
 #
 # License: Usage of custom framework is restricted to limited audience.
 require 'active_model'
